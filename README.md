@@ -1,4 +1,4 @@
-# Simple Web App by MERN
+# Simple ReactJS Web App by MERN
 This is a simple web application with basic CRUD operations for comments built on **MERN**.
 
 ## Installation
